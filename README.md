@@ -34,4 +34,4 @@ The objective is to demonstrate end-to-end data analysis skills including data c
 - Filters for category, region, and date
 - KPI cards for total sales, profit, and quantity
 
-## 📂 Project Structure
+
